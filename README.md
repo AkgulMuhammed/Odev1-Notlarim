@@ -1,6 +1,6 @@
 # odev1_notlarim
 
-A new Flutter project.
+Atıl Samacıoğlu Hocamın Github Eğitimini tamamlayıp Oyun ve Uygulama Akademisinin verdiği bu ödevi buraya paylaşmaktan mutluluk duyuyorum 
 
 ## Getting Started
 
